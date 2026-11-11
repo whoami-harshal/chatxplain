@@ -6,7 +6,7 @@ title: ChatXplain
 
 # ChatXplain
 
-**What does this text mean?** Drop a chat screenshot and get the vibe, the red flags and three replies you can send, in any tone you like. ChatXplain is an app on [Anna](https://anna.partners).
+**Your private texting coach that remembers your relationships.** Drop a chat screenshot to see what they meant, how things changed since last time, and three replies that sound like you, in any tone. ChatXplain is an app on [Anna](https://anna.partners).
 
 - [Privacy policy](privacy/)
 - Contact: harshal456951@gmail.com
